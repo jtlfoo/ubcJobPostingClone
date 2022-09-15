@@ -5,8 +5,9 @@
 Commit #1 - 14 Sep 2022:
 
 - Mobile first
-- Containers utilize white space consistently across cards and screen sizes
-- All interior elements aligned
+- Nav bar given max-width to prevent stretching to page corners
+- Containers utilize white space consistently within the and across screen sizes
+- More cards added to similar jobs for fun
 - Background hero image does not shrink
 - Responsive
 

@@ -193,6 +193,12 @@ p:last-child {
   justify-content: center;
 }
 
+.similar-job-card:hover,
+.similar-job-card:focus {
+  cursor: pointer;
+  box-shadow: 0px 0px 20px #c5c6c7;
+}
+
 .aside-card {
   padding-bottom: 1.25em;
 }
@@ -254,6 +260,10 @@ p:last-child {
   display: flex;
   align-items: center;
   margin-bottom: 0.25em;
+}
+
+.job-id-list-item {
+  padding-top: 0.1em;
 }
 
 /* ======= */
