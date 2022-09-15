@@ -1,13 +1,14 @@
 # Webpage clone: UBC Job Posting
 
-Link: https://ubc.wd10.myworkdayjobs.com/en-US/ubcstaffjobs/job/Educational-Technologist_JR9523
+[Educational Technologist Posting Reference](https://ubc.wd10.myworkdayjobs.com/en-US/ubcstaffjobs/job/Educational-Technologist_JR9523)
 
 Commit #1 - 14 Sep 2022:
 
-- Started mobile first
-- Tweaked containers to better utilize white space consistently across cards
-- All elements aligned relative to each another
-- 100% responsive
+- Mobile first
+- Containers utilize white space consistently across cards and screen sizes
+- All interior elements aligned
+- Background hero image does not shrink
+- Responsive
 
 Commit #2 - 14 Sep 2022
 
