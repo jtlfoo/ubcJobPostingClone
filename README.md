@@ -18,6 +18,6 @@ Commit #2 - 14 Sep 2022
 
 Commit #3 - 15 Sep 2022
 
-- Rephased commit #1 README.md
+- Rephrased commit #1 README.md
 - centered icons and text with more precision
 - Added :hover details to jobs card
