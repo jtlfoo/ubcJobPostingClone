@@ -15,3 +15,9 @@ Commit #2 - 14 Sep 2022
 
 - Added workday favicon
 - Added README.md
+
+Commit #3 - 15 Sep 2022
+
+- Rephased commit #1 README.md
+- centered icons and text with more precision
+- Added :hover details to jobs card
